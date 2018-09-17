@@ -1,0 +1,170 @@
+ [
+    {
+      "number": 0,
+      "description": "Reserved"
+    },
+    {
+      "number": 1,
+      "description": "Ethernet (10Mb)"
+    },
+    {
+      "number": 2,
+      "description": "Experimental Ethernet (3Mb)"
+    },
+    {
+      "number": 3,
+      "description": "Amateur Radio AX.25"
+    },
+    {
+      "number": 4,
+      "description": "Proteon ProNET Token Ring"
+    },
+    {
+      "number": 5,
+      "description": "Chaos"
+    },
+    {
+      "number": 6,
+      "description": "IEEE 802 Networks"
+    },
+    {
+      "number": 7,
+      "description": "ARCNET"
+    },
+    {
+      "number": 8,
+      "description": "Hyperchannel"
+    },
+    {
+      "number": 9,
+      "description": "Lanstar"
+    },
+    {
+      "number": 10,
+      "description": "Autonet Short Address"
+    },
+    {
+      "number": 11,
+      "description": "LocalTalk"
+    },
+    {
+      "number": 12,
+      "description": "LocalNet (IBM PCNet or SYTEK LocalNET)"
+    },
+    {
+      "number": 13,
+      "description": "Ultra link"
+    },
+    {
+      "number": 14,
+      "description": "SMDS"
+    },
+    {
+      "number": 15,
+      "description": "Frame Relay"
+    },
+    {
+      "number": 16,
+      "description": "Asynchronous Transmission Mode (ATM)"
+    },
+    {
+      "number": 17,
+      "description": "HDLC"
+    },
+    {
+      "number": 18,
+      "description": "Fibre Channel"
+    },
+    {
+      "number": 19,
+      "description": "Asynchronous Transmission Mode (ATM)"
+    },
+    {
+      "number": 20,
+      "description": "Serial Line"
+    },
+    {
+      "number": 21,
+      "description": "Asynchronous Transmission Mode (ATM)"
+    },
+    {
+      "number": 22,
+      "description": "MIL-STD-188-220"
+    },
+    {
+      "number": 23,
+      "description": "Metricom"
+    },
+    {
+      "number": 24,
+      "description": "IEEE 1394.1995"
+    },
+    {
+      "number": 25,
+      "description": "MAPOS"
+    },
+    {
+      "number": 26,
+      "description": "Twinaxial"
+    },
+    {
+      "number": 27,
+      "description": "EUI-64"
+    },
+    {
+      "number": 28,
+      "description": "HIPARP"
+    },
+    {
+      "number": 29,
+      "description": "IP and ARP over ISO 7816-3"
+    },
+    {
+      "number": 30,
+      "description": "ARPSec"
+    },
+    {
+      "number": 31,
+      "description": "IPsec tunnel"
+    },
+    {
+      "number": 32,
+      "description": "InfiniBand (TM)"
+    },
+    {
+      "number": 33,
+      "description": "TIA-102 Project 25 Common Air Interface (CAI)"
+    },
+    {
+      "number": 34,
+      "description": "Wiegand Interface"
+    },
+    {
+      "number": 35,
+      "description": "Pure IP"
+    },
+    {
+      "number": 36,
+      "description": "W_EXP1"
+    },
+    {
+      "number": 37,
+      "description": "HFI"
+    },
+    {
+      "number": 256,
+      "description": "HW_EXP2"
+    },
+    {
+      "number": 257,
+      "description": "AEthernet"
+    },
+    {
+      "number": 65535,
+      "description": "Reserved"
+    },
+    {
+      "number": -1,
+      "description": "Unassigned"
+    }
+ ]

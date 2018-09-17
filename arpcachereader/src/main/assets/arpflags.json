@@ -1,0 +1,30 @@
+[
+  {
+    "number": 0,
+    "description": "Disconnected"
+  },
+  {
+    "number": 2,
+    "description": "Completed entry (ha valid)"
+  },
+  {
+    "number": 4,
+    "description": "Permanent entry"
+  },
+  {
+    "number": 8,
+    "description": "Publish entry"
+  },
+  {
+    "number": 32,
+    "description": "Use netmask (for proxy entries)"
+  },
+  {
+    "number": 64,
+    "description": "Do not publish"
+  },
+  {
+    "number": -1,
+    "description": "Unassigned"
+  }
+]
