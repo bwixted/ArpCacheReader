@@ -11,7 +11,7 @@ your network.
 
 You can see this post on medium for an explanation: https://medium.com/@billwixted/first-release-of-arpcachereader-20fecc60e584
 
-## Binaries
+## Implementation
 
 To integrate the arpcachereader library include the following in your app build.gradle
 
