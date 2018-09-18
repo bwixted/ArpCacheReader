@@ -66,7 +66,7 @@ To traverse the list of nodes found in your ARP cache get the "networkNodes" and
 That's it. This is a pretty simple library but it will save you some time if you need to access this information and it also provides some helpful textual descriptions via the "hwTypeDescription" and "flagsDescription" fields.
 
 
-##License
+## License
 
     Copyright (C) 2018 Bill Wixted
 
