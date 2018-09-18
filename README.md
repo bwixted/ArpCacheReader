@@ -1,5 +1,5 @@
 # ArpCacheReader
-Library for reading Android Arp Cache File
+Library for reading Android ARP Cache File
 
 ArpCacheReader provides some handy classes for reading the Android ARP (Address Resolution Protocol) cache file which 
 resides at /proc/net/arp on your Android phone. 
